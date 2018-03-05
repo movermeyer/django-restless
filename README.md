@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/dobarkod/django-restless.png?branch=master)](http://travis-ci.org/dobarkod/django-restless)
 [![Coverage Status](https://coveralls.io/repos/dobarkod/django-restless/badge.png)](https://coveralls.io/r/dobarkod/django-restless)
-[![PyPi version](https://pypip.in/v/DjangoRestless/badge.png)](https://crate.io/packages/DjangoRestless/)
+[![PyPi version](https://img.shields.io/pypi/v/DjangoRestless.svg)](https://crate.io/packages/DjangoRestless/)
 
 Django Restless is a lightweight set of tools for implementing JSON-based
 RESTful APIs in Django. It helps with writing APIs that loosely follow
